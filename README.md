@@ -13,3 +13,5 @@ Also, you can delete them from the list clicking on the red button (-)
 
 <img src="https://i.ibb.co/c6PQpdb/image.png">
 
+That's it! :upside_down_face: 
+
